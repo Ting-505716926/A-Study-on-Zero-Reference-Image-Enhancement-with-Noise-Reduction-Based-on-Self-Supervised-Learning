@@ -2,4 +2,5 @@
 
 # 簡介
 本專案利用self supervised learning的方式建構了一種無需正常光影像作為參考的低光影像增強系統，系統由Image Enhancement Module 與 Noise Reduction Module組成
-[!image] 
+
+![image](img/Training Process.png)
